@@ -21,14 +21,7 @@
 			"LoadingPhase": "Default",
 			"BlacklistPlatform": [
 				"IOS",
-				"MAC",
-				"Linux"
-			],
-			"WhitelistPlatforms" :
-            [
-                "Win64",
-                "Android"
-            ]
+			]
 		}
 	],
 	"Plugins": [
